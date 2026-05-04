@@ -1,26 +1,68 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+  --font-sans: var(--font-noto-kufi), var(--font-dm-sans), ui-sans-serif, system-ui, sans-serif;
+  
+  /* Consistent Theme Color: Vibrant Cyan/Light Blue */
+  --color-brand-primary: #0284C7;    /* Active Sky Blue (The "Cyan/Light Blue" user liked) */
+  --color-brand-dark: #075985;       /* Deep Blue for contrast */
+  --color-brand-accent: #22D3EE;     /* Ice Cyan */
+  
+  --color-bg-dark: #0F172A;          /* Premium Navy */
+  --color-bg-card: #FFFFFF;
+  --color-bg-alt: #F8FAFC;
+  
+  --color-text-main: #0F172A;
+  --color-text-muted: #475569;
+  
+  --color-success: #10B981;
+  --color-warning: #F59E0B;
+  --color-error: #EF4444;
+  
+  --radius-custom: 1.5rem;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+@layer base {
+  html[dir="rtl"] {
+    font-family: var(--font-noto-kufi), sans-serif;
+  }
+  
+  html[dir="ltr"] {
+    font-family: var(--font-dm-sans), sans-serif;
+  }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  body {
+    @apply bg-white text-slate-900 antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-black tracking-tight text-slate-900;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+.section-padding {
+  @apply py-16 md:py-32;
+}
+
+:root {
+  --background: oklch(1 0 0);
+  --foreground: #0F172A;
+  --card: oklch(1 0 0);
+  --card-foreground: #0F172A;
+  --popover: oklch(1 0 0);
+  --popover-foreground: #0F172A;
+  --primary: #0284C7;
+  --primary-foreground: #FFFFFF;
+  --secondary: #F1F5F9;
+  --secondary-foreground: #0284C7;
+  --muted: #F1F5F9;
+  --muted-foreground: #475569;
+  --accent: #22D3EE;
+  --accent-foreground: #0F172A;
+  --destructive: #EF4444;
+  --destructive-foreground: #FFFFFF;
+  --border: #E2E8F0;
+  --input: #E2E8F0;
+  --ring: #0284C7;
+  --radius: 1rem;
 }

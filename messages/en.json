@@ -1,0 +1,309 @@
+{
+  "HomePage": {
+    "title": "AC Repair & Installation in Dammam",
+    "subHeadline": "Arrive in 2 hours · 24/7 Service · Warranty on all works",
+    "callNow": "Call Now",
+    "whatsapp": "WhatsApp",
+    "trustBar": {
+      "googleReviews": "4.9/5 Google Rating",
+      "satisfiedCustomers": "+500 Satisfied Customers",
+      "experience": "10+ Years Experience"
+    }
+  },
+  "Header": {
+    "home": "Home",
+    "services": "Services",
+    "pricing": "Pricing",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "Footer": {
+    "aboutText": "We are experts in maintenance and installation of all types of ACs in the Eastern Province. We are committed to providing fast, professional service with transparent pricing.",
+    "quickLinks": "Quick Links",
+    "ourServices": "Our Services",
+    "contactInfo": "Contact Info",
+    "repair": "AC Repair & Maintenance",
+    "installation": "New AC Installation",
+    "cleaning": "AC Cleaning & Washing",
+    "gasRecharge": "Gas Recharge",
+    "emergency": "Emergency Service 24/7",
+    "copyright": "Copyright © {year} AC Dammam. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "Services": {
+    "title": "Our Professional Services",
+    "description": "We provide integrated solutions for all types of ACs (Split, Window, Central) with guaranteed quality and speed.",
+    "learnMore": "Learn More",
+    "repair": {
+      "title": "AC Repair & Maintenance",
+      "description": "Immediate fault diagnosis and repair using original spare parts to ensure cooling efficiency."
+    },
+    "installation": {
+      "title": "New AC Installation",
+      "description": "Professional installation of all types of ACs following the highest quality and safety standards."
+    },
+    "cleaning": {
+      "title": "AC Cleaning & Washing",
+      "description": "Deep cleaning of indoor and outdoor units to improve air quality and reduce power consumption."
+    },
+    "gasRecharge": {
+      "title": "Gas Recharge",
+      "description": "Gas leak inspection and Freon recharge with the best types to ensure optimal cooling."
+    },
+    "emergency": {
+      "title": "Emergency Service 24/7",
+      "description": "Technicians available around the clock for emergencies and sudden breakdowns at any time."
+    },
+    "maintenance": {
+      "title": "Preventive Maintenance",
+      "description": "Regular maintenance contracts for homes and companies to ensure ACs work all year round without failure."
+    }
+  },
+  "HowItWorks": {
+    "title": "How It Works",
+    "description": "A simple and fast process to ensure your comfort and the best maintenance service.",
+    "step1": {
+      "title": "Contact Us",
+      "description": "Book your appointment easily via WhatsApp or phone in less than a minute."
+    },
+    "step2": {
+      "title": "Technician Arrives",
+      "description": "Our specialized team arrives at your location in Dammam or Khobar within 2 hours."
+    },
+    "step3": {
+      "title": "Repair with Warranty",
+      "description": "We perform immediate repairs and provide a 90-day warranty on all works."
+    }
+  },
+  "WhyUs": {
+    "title": "Why Choose Us for Your AC Maintenance?",
+    "advantages": {
+      "certified": "Certified and Licensed Technicians",
+      "pricing": "Clear Pricing Before Work Starts",
+      "warranty": "90-Day Warranty on Repairs",
+      "allBrands": "We Service All AC Brands",
+      "available247": "Available 24/7 for Emergencies",
+      "areas": "Service in Dammam, Khobar, Ahsa"
+    },
+    "experienceBanner": {
+      "title": "Over 10 Years of Experience",
+      "description": "We have repaired thousands of ACs in the Eastern Province with a satisfaction rate exceeding 98%."
+    }
+  },
+  "Pricing": {
+    "title": "Transparent & Competitive Pricing",
+    "description": "We offer various packages to suit all needs with guaranteed best quality and lowest price.",
+    "sar": "SAR",
+    "mostPopular": "Most Popular",
+    "bookNow": "Book Now",
+    "viewAllPricing": "View All Pricing",
+    "basic": {
+      "title": "Inspection & Diagnosis",
+      "features": {
+        "f1": "Comprehensive AC Inspection",
+        "f2": "Accurate Fault Diagnosis",
+        "f3": "Detailed Technical Report",
+        "f4": "Discount on Repair Price"
+      }
+    },
+    "standard": {
+      "title": "Basic Maintenance",
+      "features": {
+        "f1": "Full Inspection & Diagnosis",
+        "f2": "Indoor Unit Washing",
+        "f3": "Filters Cleaning",
+        "f4": "Freon Level Check"
+      }
+    },
+    "premium": {
+      "title": "Comprehensive Maintenance",
+      "features": {
+        "f1": "Includes Basic Maintenance",
+        "f2": "Chemical Unit Washing",
+        "f3": "Full Freon Recharge",
+        "f4": "Steam Air Sterilization"
+      }
+    }
+  },
+  "CTA": {
+    "title": "Is your AC having problems?",
+    "description": "Contact us now and we will arrive within two hours. Professional technicians available to serve you 24/7.",
+    "callNow": "Call Now",
+    "whatsapp": "Chat via WhatsApp",
+    "availableNow": "Technicians available now in your area"
+  },
+  "NotFound": {
+    "title": "Page Not Found",
+    "description": "Sorry, the page you are looking for does not exist or has been moved.",
+    "goHome": "Go Back Home"
+  },
+  "About": {
+    "title": "About Us",
+    "description": "We are a leading AC services company in the Eastern Province of Saudi Arabia. With over a decade of experience, we pride ourselves on providing reliable and efficient cooling solutions to our customers."
+  },
+  "ServiceDetails": {
+    "repair": {
+      "heroTitle": "AC Maintenance & Repair in Dammam",
+      "heroSubtitle": "We restore your AC to its original power and efficiency with a real warranty on all repairs.",
+      "overviewTitle": "Why Choose Our Repair Service?",
+      "overviewText": "AC maintenance is a pressing necessity in our hot climate. Our specialized team performs an accurate diagnosis of all faults (loud noise, water leakage, weak cooling) and repairs them immediately at your site.",
+      "benefit1": "Immediate and accurate fault diagnosis",
+      "benefit2": "Use of 100% original spare parts",
+      "benefit3": "Professional technicians for all brands",
+      "benefit4": "90-day warranty on work",
+      "feature1Title": "Fast Response",
+      "feature1Desc": "We reach you within two hours of requesting the service anywhere in Dammam.",
+      "feature2Title": "Transparent Pricing",
+      "feature2Desc": "We give you the final cost before starting any repair work.",
+      "feature3Title": "Guaranteed Quality",
+      "feature3Desc": "We use the latest tools and equipment to ensure a long-lasting repair.",
+      "faq1Q": "How long does it take to repair the AC?",
+      "faq1A": "Repairs are usually completed within 60-90 minutes for common faults.",
+      "faq2Q": "Do you offer a warranty on spare parts?",
+      "faq2A": "Yes, all original spare parts come with a certified agent warranty in addition to our installation warranty.",
+      "faq3Q": "Do you repair all AC brands?",
+      "faq3A": "Yes, we serve all major brands like Samsung, LG, Carrier, Gree, and Midea.",
+      "faq4Q": "What is the inspection cost?",
+      "faq4A": "The inspection cost is 49 SAR, and it is deducted from the total bill if the repair is done."
+    },
+    "installation": {
+      "heroTitle": "Professional AC Installation in Dammam",
+      "heroSubtitle": "We guarantee correct installation that prolongs your AC's life and saves electricity.",
+      "overviewTitle": "Importance of Correct AC Installation",
+      "overviewText": "Incorrect installation is the main cause of 80% of future AC problems. We follow the strictest safety and quality standards to ensure optimal performance from day one.",
+      "benefit1": "Determining the optimal location for units",
+      "benefit2": "High-quality copper extension",
+      "benefit3": "Excellent thermal insulation for pipes",
+      "benefit4": "Cooling test after installation",
+      "feature1Title": "Timing Accuracy",
+      "feature1Desc": "We stick to scheduled appointments to ensure no time is wasted.",
+      "feature2Title": "Specialized Technicians",
+      "feature2Desc": "Our team is trained to install all systems (Split, Central, Floor Standing).",
+      "feature3Title": "Site Cleanliness",
+      "feature3Desc": "We make sure to leave the place as clean as it was after finishing the work.",
+      "faq1Q": "Does the installation include copper extension?",
+      "faq1A": "Yes, we offer options including original American Mueller copper extension as needed.",
+      "faq2Q": "Do you install used ACs?",
+      "faq2A": "Yes, we dismantle, move, and install used ACs with a warranty on installation quality.",
+      "faq3Q": "How long does it take to install a split AC?",
+      "faq3A": "A typical installation takes about two to three hours.",
+      "faq4Q": "Do you offer bulk discounts?",
+      "faq4A": "Certainly, we have special prices for installing ACs for projects and entire buildings."
+    },
+    "cleaning": {
+      "heroTitle": "AC Cleaning & Washing in Dammam",
+      "heroSubtitle": "Pure air and stronger cooling with deep cleaning service using high-pressure pumps.",
+      "overviewTitle": "Why Should You Clean Your AC Now?",
+      "overviewText": "Accumulated dust and dirt reduce cooling efficiency, increase the electricity bill, and spread allergies. Our service restores your AC's shine and efficiency.",
+      "benefit1": "Improved indoor air quality",
+      "benefit2": "Reduce electricity consumption by 30%",
+      "benefit3": "Prolonging the AC's lifespan",
+      "benefit4": "Eliminating unpleasant odors",
+      "feature1Title": "Mess-Free Washing",
+      "feature1Desc": "We use special washing bags to protect walls and furniture from water.",
+      "feature2Title": "Comprehensive Cleaning",
+      "feature2Desc": "We accurately wash indoor and outdoor units and pipes.",
+      "feature3Title": "Sterilizing Materials",
+      "feature3Desc": "We use safe cleaning materials that eliminate bacteria and fungi.",
+      "faq1Q": "How often should the AC be cleaned?",
+      "faq1A": "We recommend deep cleaning once every 6 months in the Eastern Province climate.",
+      "faq2Q": "Does cleaning improve cooling?",
+      "faq2A": "Absolutely, cleaning removes barriers from cooling coils, increasing cold air flow.",
+      "faq3Q": "Do you wash outdoor units?",
+      "faq3A": "Yes, washing outdoor units is essential to improve AC compressor efficiency.",
+      "faq4Q": "Do you use water pressure?",
+      "faq4A": "Yes, we use specialized pressure pumps that remove deep dirt without damaging the aluminum fins."
+    },
+    "gasRecharge": {
+      "heroTitle": "Freon Recharge & Leak Detection in Dammam",
+      "heroSubtitle": "We use the best types of original Freon gas to ensure lasting icy cooling.",
+      "overviewTitle": "When Does Your AC Need Gas Recharge?",
+      "overviewText": "Gas shortage means weak cooling and high energy consumption. We don't just recharge gas; we inspect the cooling system to ensure there are no leaks.",
+      "benefit1": "Use of original R410a and R22 Freon gas",
+      "benefit2": "Accurate leak location inspection",
+      "benefit3": "Professional copper pipe welding",
+      "benefit4": "Warranty against future gas shortage",
+      "feature1Title": "Modern Detection Devices",
+      "feature1Desc": "We use electronic devices to detect the finest gas leak locations.",
+      "feature2Title": "Original Gas",
+      "feature2Desc": "We completely stay away from imitation gases that harm the AC compressor.",
+      "feature3Title": "Pressure Balancing",
+      "feature3Desc": "We recharge gas with the exact weight recommended by the factory.",
+      "faq1Q": "Why does AC gas decrease?",
+      "faq1A": "The AC is a closed system, and gas shortage always means there is a leak that must be repaired.",
+      "faq2Q": "What is the difference between Freon types?",
+      "faq2A": "We use R410a for modern ACs and R22 for older models according to AC specifications.",
+      "faq3Q": "Do you recharge gas on-site?",
+      "faq3A": "Yes, the inspection and recharge process is fully completed at the customer's site.",
+      "faq4Q": "Is the smell of Freon dangerous?",
+      "faq4A": "Freon is generally a non-toxic gas, but its leak reduces efficiency and needs immediate treatment."
+    },
+    "emergency": {
+      "heroTitle": "24-Hour AC Emergency Service",
+      "heroSubtitle": "No need to wait in the heat; our technicians are ready to serve you at any time.",
+      "overviewTitle": "We Are With You in the Hardest Moments",
+      "overviewText": "AC failure in the middle of the night or on public holidays is no longer a problem. Our emergency service covers Dammam and Khobar around the clock.",
+      "benefit1": "Immediate response around the clock",
+      "benefit2": "Fully equipped standby team",
+      "benefit3": "Immediate repair on the first visit",
+      "benefit4": "Full coverage of the Eastern Province",
+      "feature1Title": "Always Available",
+      "feature1Desc": "We work on Fridays and public holidays without stopping.",
+      "feature2Title": "Fast Arrival",
+      "feature2Desc": "Our technicians' distribution allows us to reach you in record time.",
+      "feature3Title": "Quick Solutions",
+      "feature3Desc": "We have the necessary spare parts for immediate repair in most cases.",
+      "faq1Q": "Do prices differ in emergencies?",
+      "faq1A": "We maintain competitive prices even in emergency times with small nominal service fees outside official times.",
+      "faq2Q": "How long does it take for a technician to arrive in an emergency?",
+      "faq2A": "We strive to arrive within 30 to 60 minutes in cases of extreme emergency.",
+      "faq3Q": "Is the service available in Khobar?",
+      "faq3A": "Yes, our emergency service fully covers Dammam, Khobar, and Dhahran.",
+      "faq4Q": "What should I do until the technician arrives?",
+      "faq4A": "It is preferable to turn off the AC completely and disconnect it from power to avoid compressor damage."
+    },
+    "maintenance": {
+      "heroTitle": "Periodic AC Maintenance Contracts",
+      "heroSubtitle": "Total peace of mind all year round with customized proactive maintenance plans.",
+      "overviewTitle": "Invest in Your AC's Life",
+      "overviewText": "Periodic maintenance prevents 90% of sudden breakdowns. Our contracts provide you with regular visits that ensure your devices work at maximum efficiency and minimum consumption.",
+      "benefit1": "Scheduled periodic inspection visits",
+      "benefit2": "Priority in service requests",
+      "benefit3": "Special discounts on spare parts",
+      "benefit4": "Periodic status reports for each device",
+      "feature1Title": "Customized Plans",
+      "feature1Desc": "We provide packages suitable for homes, villas, and commercial complexes.",
+      "feature2Title": "Professional Management",
+      "feature2Desc": "We remind you of the maintenance appointment before its time to arrange the visit.",
+      "feature3Title": "Financial Savings",
+      "feature3Desc": "Annual contracts save a lot compared to requesting each service separately.",
+      "faq1Q": "What does a periodic maintenance visit include?",
+      "faq1A": "It includes filter cleaning, gas pressure inspection, drainage channel cleaning, and electrical connection inspection.",
+      "faq2Q": "Does the contract include spare parts?",
+      "faq2A": "We have different packages; some include consumable parts, and others provide discounts on them.",
+      "faq3Q": "Can the contract be cancelled?",
+      "faq3A": "Yes, our policies are flexible and allow for adjustment or cancellation according to the agreed terms.",
+      "faq4Q": "Do you serve companies and buildings?",
+      "faq4A": "Yes, specialists in maintenance contracts for offices, mosques, and large residential complexes."
+    }
+  },
+  "Contact": {
+    "title": "Contact Us",
+    "description": "We are here to help. You can reach us via any of the following methods or fill out the form and we will get back to you shortly.",
+    "address": "Address",
+    "addressDetail": "Dammam, Eastern Province, Saudi Arabia",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "formTitle": "Send us a Message",
+    "name": "Full Name",
+    "phoneLabel": "Phone Number",
+    "serviceType": "Service Requested",
+    "serviceRepair": "Repair & Maintenance",
+    "serviceInstallation": "New Installation",
+    "serviceCleaning": "Cleaning & Washing",
+    "message": "Details of the problem or request",
+    "send": "Send Request"
+  }
+}
