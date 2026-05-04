@@ -53,5 +53,6 @@ The website is ready for final client review and deployment to Vercel. All SEO s
 
 ## 🛠️ Critical Fixes & Migrations (Post-Completion)
 - **Syntax Fixes**: Resolved parsing errors in `layout.tsx` and `page.tsx` caused by corrupted code insertion during automated edits.
+- **Next.js 15+/16 Async Params Fix**: Updated `RootLayout` type definitions to treat `params` as a `Promise`, fixing the TypeScript build error on Vercel.
 - **Next.js 16 Proxy Migration**: Renamed `middleware.ts` to `proxy.ts` and updated exports to comply with the new Next.js "Proxy" convention.
 - **Font Package Migration**: Removed the deprecated `@next/font` package in favor of the built-in `next/font`.
