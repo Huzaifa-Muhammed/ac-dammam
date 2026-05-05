@@ -249,7 +249,7 @@ export default async function ServicePage({ params }: ServicePageProps) {
               إجابات على أكثر التساؤلات شيوعاً لعملائنا في المنطقة الشرقية.
             </p>
           </div>
-          <Accordion type="single" collapsible className="w-full space-y-4">
+          <Accordion className="w-full space-y-4">
             {[1, 2, 3, 4].map((i) => (
               <AccordionItem key={i} value={`item-${i}`} className="border border-slate-100 rounded-2xl px-6 bg-slate-50/50">
                 <AccordionTrigger className="text-right font-black text-lg py-6 hover:no-underline hover:text-brand-primary transition-colors">
